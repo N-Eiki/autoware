@@ -1,1 +1,2 @@
 cuda_install_drivers: true
+nvidia_driver_version: "550-open"
